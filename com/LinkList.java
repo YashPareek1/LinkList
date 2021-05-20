@@ -16,7 +16,7 @@ public class LinkList {
       System.out.println(ll);
       
    // remove elements to the linked list
-      ll.removeFirst();
+      ll.removeLast();
       System.out.println(ll);
 }
 }
